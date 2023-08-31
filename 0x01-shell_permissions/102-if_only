@@ -1,2 +1,2 @@
 #!/bin/bash
-if ["id -un"= "guillaume"]; then chown betty hello fi
+find hello -user guillaume -exec chown betty {} \;
