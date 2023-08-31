@@ -1,0 +1,2 @@
+#!/bin/bash
+#!/bimkdir --mode=751 my_dir
