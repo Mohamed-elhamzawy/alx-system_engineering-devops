@@ -1,2 +1,2 @@
 #!/bin/bash
-find 0 SCHOOL -type file -exec school {} \
+0	 string SCHOOL School data !:mimi School
